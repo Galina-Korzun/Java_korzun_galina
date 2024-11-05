@@ -7,4 +7,4 @@ class CheckSumSign {
         if (c>=0) System.out.println("Сумма положительная");
         else System.out.println("Сумма отрицательная");
     }
-}
+}//number
