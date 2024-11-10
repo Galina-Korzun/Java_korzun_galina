@@ -1,4 +1,4 @@
-package main.java.org.example;
+package lesson3;
 
 public class compareNumbers {
     public static void main(String[] args) {

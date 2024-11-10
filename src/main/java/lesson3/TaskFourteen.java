@@ -1,4 +1,4 @@
-package main.java.org.example;
+package lesson3;
 
 public class TaskFourteen {
     public static int[] createArray(int len, int initialValue) {

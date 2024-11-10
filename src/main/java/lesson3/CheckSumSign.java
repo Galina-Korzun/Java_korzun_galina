@@ -1,4 +1,4 @@
-package main.java.org.example;
+package lesson3;
 class CheckSumSign {
     public static void main(String[] args) {
         System.out.println("checkSumSign()");
